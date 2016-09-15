@@ -1,10 +1,17 @@
+@import 'https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i';
 /*
 Theme Name: Code Artisan
-Theme URI: https://wordpress.org/themes/codeartsan/
 Author: William Silva
 Author URI: http://williamsilva.com.br
-Description: Tema de Estudo sobre desenvolvimento do Wordpress
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: codeartisan
+Version: 1.0
+
 */
+
+body{
+	font-family: "PT Sans";
+	font-size: 14px;
+	color: #333;	
+}
+.site-header{
+	background-color: black;
+}
